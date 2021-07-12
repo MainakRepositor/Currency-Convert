@@ -3,6 +3,9 @@ A currency converter web application that converts and calculates currency excha
 
 <hr>
 
-![ss2](https://user-images.githubusercontent.com/64016811/114317351-4e9ded00-9b25-11eb-8d95-0428a5a08b21.jpg)
-![ss1](https://user-images.githubusercontent.com/64016811/114317338-3e860d80-9b25-11eb-9e15-4b62be78fb0e.jpg)
+
+
+https://user-images.githubusercontent.com/64016811/125234133-b0751b00-e2fd-11eb-8947-391290f90f91.mp4
+
+
 
